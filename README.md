@@ -1,2 +1,1 @@
-# jige
-very good
+打印(hello word)
